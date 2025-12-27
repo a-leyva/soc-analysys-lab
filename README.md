@@ -1,4 +1,4 @@
-# LEYVASEC SOC Analysis Lab
+# SOC Analysis Lab
 
 ## 📌 Overview
 This repository contains files and documentation for a cybersecurity lab simulating Security Operations Center (SOC) traffic analysis.  
