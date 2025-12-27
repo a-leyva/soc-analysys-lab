@@ -26,6 +26,7 @@ The purpose is to practice **network traffic investigation**, **incident detecti
 ├── Wireshark_Traffic_Investigation.md # Lab documentation / report
 └── endpoints.png # Network endpoints overview
 
+
 ---
 
 ## 🧠 Skills Demonstrated
@@ -47,6 +48,11 @@ The purpose is to practice **network traffic investigation**, **incident detecti
 ## ⚡ Key Findings
 - Example suspicious IPs, HTTP POST anomalies, or potential malicious traffic (see report)  
 - Clear visualization of network conversations with screenshots  
+
+---
+
+## 📜 License
+This lab is for **educational purposes only**.- Clear visualization of network conversations with screenshots  
 
 ---
 
